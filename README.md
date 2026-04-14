@@ -50,14 +50,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byteSize-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=byteSize-del&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=byteSize-del&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" />
+  <img src="https://streak-stats.demolab.com/?user=byteSize-del&theme=dark&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteSize-del&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=byteSize-del&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
 ---
 
 ## 🎉 Fun Facts
