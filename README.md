@@ -1,11 +1,11 @@
 <h1 align="center">Hey there, I'm Sahil Sayyed 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Student+%26+Aspiring+Developer+%F0%9F%9A%80;Building+Cool+Web+Projects+%F0%9F%8C%90;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Student+%26+Aspiring+Developer+%F0%9F%9A%80;Building+Cool+Web+Projects+%F0%9F%8C%90;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilsayyed&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sahilsayyed&label=Profile%20views&color=6C63FF&style=flat" alt="profile views">
 </p>
 
 ---
