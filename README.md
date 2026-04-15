@@ -1,89 +1,84 @@
 <h1 align="center">Hey there, I'm Sahil Sayyed 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Student+%26+Aspiring+Developer+%F0%9F%9A%80;Building+Cool+Web+Projects+%F0%9F%8C%90;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=900&color=F97316&center=true&vCenter=true&width=640&lines=JavaScript%20is%20my%20canvas%3BBreaking%20%26%20fixing%20constantly%3BStudent%2C%20Learner%2C%20Minimal%20Web%20dev%2C%20Genai%20IRL%3BSahil's%20code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilsayyed&label=Profile%20views&color=6C63FF&style=flat" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=byteSize-del&label=Profile+Views&color=f97316&style=flat" alt="profile views" />
 </p>
 
----
+---  
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🎓 I'm a **student** on a mission to become a full-stack developer
-- 🌐 I love **building web projects** from scratch and bringing ideas to life
-- 🔭 Currently leveling up my skills in **React & Node.js**
-- 🌱 Always exploring something new in the **web dev universe**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
-- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed 😄
+I'm a student‑learner‑minimal web dev who’s fascinated by the magic of generative AI. When I’m not turning ideas into code, you’ll find me sketching UI concepts or tinkering with a new model.
 
----
+- 🎓 **Background**: Computer Science student diving deep into full‑stack development.  
+- 🔭 **Current focus**: Building **Project Alpha** – a generative‑AI‑powered web app that learns from user interactions.  
+- 🌱 **Growing skills**: Leveling up my JavaScript & exploring prompt engineering with GenAI.  
+- 💬 **Ask me about**: JavaScript quirks, AI prompt design, or how to keep a minimal UI clean.  
+- ⚡ **Fun fact**: My terminal background has been the same neon‑green theme since 2020.  
+- 🎯 **Goals**: Land a dev internship, contribute to open‑source AI tooling, and ship a product that people love.  
+- 🌟 **Interests**: Indie game dev, lo‑fi beats, and collecting vintage keyboards.  
 
-## 🛠️ Tech Stack
+---  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Html-58a6ff?style=plastic&logo=html&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Css-58a6ff?style=plastic&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSQL-58a6ff?style=plastic&logo=msql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-58a6ff?style=plastic&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-58a6ff?style=plastic&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Genrative%20Ai-58a6ff?style=plastic&logo=genrative%20ai&logoColor=white"/>
 </p>
 
----
+---  
 
 ## 🚀 Current Projects / Work
 
-- 🔨 Building **web apps** using React & Node.js
-- 🎨 Experimenting with **UI/UX design** to make interfaces pop
-- 📚 Deepening my understanding of **full-stack development**
+- **Bloom AI** – an open‑source prompt‑tuning library for text‑to‑image models.  
+- **Profile Forge** – a lightweight GitHub profile generator (the one you’re reading now!).  
+- **Bravo AI** – a chatbot that helps students practice coding interview questions.  
+- **SuperWeb** – a minimal‑UI static site builder with built‑in dark‑mode support.  
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+> “The best way to predict the future is to create it.” – Peter Drucker  
 
----
+---  
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=byteSize-del&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" />
-  <img src="https://streak-stats.demolab.com/?user=byteSize-del&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=byteSize-del&theme=radical&hide_border=false&include_all_commits=false&count_private=false&card_width=500`" width="49%" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=byteSize-del&theme=radical&hide_border=false`" width="49%" height="195" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=byteSize-del&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=byteSize-del&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=500`" width="52%" height="195" alt="Top Languages" />
 </p>
----
 
-## 🎉 Fun Facts
+---  
 
-- 🎮 I treat side projects like mini video games — always trying to reach the next level
-- ☕ Coffee + Code = My happy place
-- 🌙 Best ideas hit at 2 AM (don't ask why)
-- 🤖 I once spent 3 hours fixing a bug that was a missing semicolon... classic
+## Fun Facts & Dev Quirks
 
----
+- ☕ Runs on a steady stream of coffee and Stack Overflow snippets.  
+- 🌙 Most productive debugging sessions happen after midnight.  
+- 🎮 Takes quick gaming breaks – “just one level” always turns into a full play‑through.  
+- 🤖 Loves automating repetitive tasks, even if it means spending three hours writing a script for a five‑minute job.  
+- 🎧 Codes best with lo‑fi hip‑hop looping in the background.  
+
+---  
 
 ## 📬 Contact & Socials
 
 <p align="left">
-  <a href="mailto:sahil.dev.me@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/sahilsayyed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/byteSize-del" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:sahil.dev.me@gmail.com"><img src="https://img.shields.io/badge/Email-sahil.dev.me%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
----
+---  
 
 <p align="center">
-  <i>✨ "The best time to start was yesterday. The next best time is now." ✨</i>
+  <i>✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House ✨</i>
 </p>
