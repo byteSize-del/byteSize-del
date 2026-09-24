@@ -51,14 +51,13 @@ I'm a student‑learner‑minimal web dev who’s fascinated by the magic of gen
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=byteSize-del&theme=radical&hide_border=false&include_all_commits=false&count_private=false&card_width=500`" width="49%" height="195" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=byteSize-del&theme=radical&hide_border=false`" width="49%" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=byteSize-del&theme=radical&hide_border=false&include_all_commits=true&count_private=false&card_width=500" width="49%" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=byteSize-del&theme=radical&hide_border=false" width="49%" height="195" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=byteSize-del&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=500`" width="52%" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=byteSize-del&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=500" width="52%" height="195" alt="Top Languages" />
 </p>
-
 ---  
 
 ## Fun Facts & Dev Quirks
